@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "134693016803",
+    "project_id": "gzoxapp-85191",
+    "storage_bucket": "gzoxapp-85191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134693016803:android:622c57a346a5b2057c61d6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.aplicadorescredenciados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134693016803-ehkaq4d4ohghij95mje1sjc4fpr7tslc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6D4d0PyG1fJdX-c3ria4eFEGRiZirruk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134693016803-ehkaq4d4ohghij95mje1sjc4fpr7tslc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134693016803-vd4h9ec1vkbnp5n3fe8d11iapu3jfr53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.aplicadorescredenciados"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
